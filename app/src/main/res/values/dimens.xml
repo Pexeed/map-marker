@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="component_margin">8dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+</resources>

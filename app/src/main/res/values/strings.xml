@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">map-marker</string>
+    <string name="search_location">Enter location…</string>
+    <string name="search">Search</string>
+    <string name="display_all">Display All on Map</string>
+    <string name="no_results">No Results</string>
+    <string name="title_activity_location_maps">Map</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_msg">Are you sure?</string>
+    <string name="delete_title">Delete Location</string>
+    <string name="delete_confirmation">DELETE</string>
+    <string name="cancel">Cancel</string>
+</resources>
